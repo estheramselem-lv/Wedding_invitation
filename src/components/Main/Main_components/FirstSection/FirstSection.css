@@ -20,7 +20,7 @@
 .wife_husband {
     font-family: 'Miama Nueva', sans-serif;
     position: absolute;
-    left: 24%;
+    left: 28%;
     bottom: 30%;
     font-size: 65px;
     line-height: 150%;
@@ -64,7 +64,7 @@
     }
 
     .wife_husband {
-        left: 24%;
+        left: 30%;
         bottom: 30%;
         font-size: 55px;
     }
@@ -97,7 +97,7 @@
     }
 
     .wife_husband {
-        left: 24%;
+        left: 30;
         bottom: 30%;
         font-size: 35px;
     }

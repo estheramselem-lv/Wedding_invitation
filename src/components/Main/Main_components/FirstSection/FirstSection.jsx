@@ -14,7 +14,6 @@ export default function FirstSection() {
 
             const WifeHusbandP = document.querySelector('.wife_husband_p');
 
-
             if (WifeHusbandP) {
                 const p1_pos = WifeHusbandP.offsetTop;
 

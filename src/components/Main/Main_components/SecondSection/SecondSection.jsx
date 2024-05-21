@@ -36,15 +36,14 @@ export default function SecondSection() {
             <img className='designerSiren' src={DesignerSiren} alt="" />
             <img className='designerSiren2' src={DesignerSiren} alt="" />
             <div className="main_title">
-                <p className={`p1 ${showRightDecorate ? 'show' : ''}`}>Дорогие родные <br /> и друзья!</p>
+                <p className={`p1 ${showRightDecorate ? 'show' : ''}`}>DEAR FAMILY <br /> AND FRIENDS!</p>
             </div>
             <div className="subtitle">
-                <p className={`p1 ${showRightDecorate ? 'show' : ''}`}>ПРИГЛАШАЕМ РАЗДЕЛИТЬ</p>
-                <p className={`p2 ${showRightDecorate ? 'show' : ''}`}>С НАМИ РАДОСТЬ ОСОБЕННОГО</p>
-                <p className={`p3 ${showRightDecorate ? 'show' : ''}`}>ДЛЯ НАС СОБЫТИЯ И СТАТЬ </p>
-                <p className={`p4 ${showRightDecorate ? 'show' : ''}`}>СВИДЕТЕЛЯМИ НАЧАЛА НАШЕЙ</p> 
-                <p className={`p5 ${showRightDecorate ? 'show' : ''}`}>СЕМЕЙНОЙ ЖИЗНИ!</p>
-                <p className={`p6 ${showRightDecorate ? 'show' : ''}`}>ЖДЁМ ВАС</p>
+                <p className={`p1 ${showRightDecorate ? 'show' : ''}`}>WITH JOY AND GRATITUDE TO HASHEM</p>
+                <p className={`p2 ${showRightDecorate ? 'show' : ''}`}> WE ARE DELIGHTED TO INVITE YOU </p>
+                <p className={`p3 ${showRightDecorate ? 'show' : ''}`}>TO CELEBRATE </p>
+                <p className={`p4 ${showRightDecorate ? 'show' : ''}`}>THE WEDDING</p> 
+                <p className={`p5 ${showRightDecorate ? 'show' : ''}`}>OF OUR DEAR CHILDREN </p>
             </div>
             <div className="waitU">
                 <img src={DesignerHeart} alt="" />
