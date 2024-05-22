@@ -5,15 +5,17 @@
     flex-direction: column;
     overflow: hidden;
     width: 100%;
+    
 }
 
 .main_title {
     font-size: 50px;
     text-align: center;
     font-family: 'Miama Nueva';
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     letter-spacing: 10px;
     line-height: 100px;
+
 }
 
 .subtitle {
@@ -23,6 +25,7 @@
     margin-top: 30px;
     letter-spacing: 10px;
     padding: 0 50px;
+    
 }
 
 .waitU {
